@@ -1,0 +1,40 @@
+<resources>
+
+
+    <string name="welcomeMessage"><p>Welcome to the Online Course Registration
+    Platform of </p><br /><p>AJAYI CROWTHER UNIVERSITY</p></string>
+    <string name="app_name">Mobile Course Registration</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="matric">Username</string>
+    <string name="password">password</string>
+    <string name="hint_matric_no">Matric No :</string>
+    <string name="hint_password">Password : </string>
+    <string name="hint_firstname">Firstname : </string>
+    <string name="hint_lastname">Lastname : </string>
+    <string name="hint_dept">Department : </string>
+    <string name="hint_fac">Faculty : </string>
+    <string name="hint_c1">Course 1 : </string>
+    <string name="hint_c2">Course 2 : </string>
+    <string name="hint_c3">Course 3 : </string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Don\'t have an account yet?.</string>
+    <string name="btn_register_sign"> Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="firstname">Fullname</string>
+    <string name="lastname">Lastname</string>
+    <string name="faculty">Faculty</string>
+    <string name="department">Department</string>
+    <string name="Course1">Course 1</string>
+    <string name="Course2">Course 2</string>
+    <string name="Course3">Course 3</string>
+    <string name="Course4">Course 4</string>
+    <string name="Course5">Course 5</string>
+    <string name="Course6">Course 6</string>
+    <string name="Course7">Course 7</string>
+    <string name="Course8">Course 8</string>
+    <string name="btn_edit">Edit</string>
+    <string name="save_text">SAVE</string>
+</resources>
